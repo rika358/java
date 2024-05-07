@@ -20,6 +20,9 @@ class Main {
 
     String text = "りか";
     System.out.println("私の名前は"+ text);
+
+    text = "りょうま";
+    System.out.println("私の名前は"+ text);
     
   }
 }
