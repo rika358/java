@@ -17,6 +17,9 @@ class Main {
     int number1 = 5;
     int number2 = 3;
     System.out.println(number1+number2);
+
+    String text = "りか";
+    System.out.println("私の名前は"+ text);
     
   }
 }
